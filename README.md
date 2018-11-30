@@ -4,7 +4,9 @@ _Helpful for UI/UX Designer_
 
 Preview Software Application
 ------------------------------------------
-[![GitHub release](preview.gif)](https://github.com/InsightSoftwareConsortium/ITK/releases/latest)
+[![GitHub release](preview.gif)](preview)
+
+[![GitHub release](preview2.gif)](preview2)
 
 Prerequisites
 ------------------------------------------
