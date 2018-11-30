@@ -19,7 +19,9 @@ Click on area you want and:
 
 | Action | Description | onClick |
 |:------:|:--------:|:--------:|
-| ``Keep Mouse Left`` | Drawing Line | click on ruler
+| ``Right Click`` | Feature | right click on ruler
+| ``Double Click`` | Mi-Maximum size | click on top left (+) |
+| ``Double Click`` | Select other program behind | click on main area |
 | ``Keep Mouse Left`` | Moving line | click on line |
 | ``Keep Mouse Right`` | Drawing rectangle | click on main area |
 | ``Keep Mouse Left`` | Moving Rectangle | click on rectangle |
@@ -36,7 +38,7 @@ Features and Bugs
 - [x] Make survey each item
 - [x] Bootstrap Grid (12 columns)
 - [ ] Support Other OS and old Windows version
-- [ ] Fix auto multi copy Rectangle when CPU hight
+- [ ] Fix auto accept copy multiple Rectangle when CPU high
 
 Authors
 -------------
