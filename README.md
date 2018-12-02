@@ -32,13 +32,21 @@ Click on area you want and:
 | ``Shift + Arrow ←``  | Width  --  Rectangle Shape | click on rectangle |
 | ``Moving Shape to ruler`` | Destroy shape | click on shape |
 
-Features and Bugs
+Version 1.0.0
 -------------
 - [x] Create simple grid
 - [x] Make survey each item
 - [x] Bootstrap Grid (12 columns)
-- [ ] Support Other OS and old Windows version
-- [ ] Fix auto accept copy multiple Rectangle when CPU high
+
+Version 1.0.1
+-------------
+- [x] Fix auto accept copy multiple Rectangle when CPU high
+
+Feature
+-------------
+- [ ] Support old Windows versions
+- [ ] Support Other OS
+
 
 Authors
 -------------
