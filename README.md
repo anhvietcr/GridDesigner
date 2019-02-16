@@ -4,9 +4,9 @@ _Helpful for UI/UX Designer_
 
 Preview Software Application
 ------------------------------------------
-[![GitHub release](preview.gif)](preview)
+[![GitHub release](img/preview.gif)](preview)
 
-[![GitHub release](preview2.gif)](preview2)
+[![GitHub release](img/preview2.gif)](preview2)
 
 Prerequisites
 ------------------------------------------
@@ -32,18 +32,26 @@ Click on area you want and:
 | ``Shift + Arrow ←``  | Width  --  Rectangle Shape | click on rectangle |
 | ``Moving Shape to ruler`` | Destroy shape | click on shape |
 
-Features and Bugs
+Version 1.0.0
 -------------
 - [x] Create simple grid
 - [x] Make survey each item
 - [x] Bootstrap Grid (12 columns)
-- [ ] Support Other OS and old Windows version
-- [ ] Fix auto accept copy multiple Rectangle when CPU high
+
+Version 1.0.1
+-------------
+- [x] Fix auto accept copy multiple Rectangle when CPU high
+
+Feature
+-------------
+- [ ] Support old Windows versions
+- [ ] Support Other OS
+
 
 Authors
 -------------
  - **Anhvietcr:** [fb.com/anhvietcr][committers]
- - **Buy Projects:** [anhvietcr.github.io][githubIO]
+ - **Buy a Projects:** [anhvietcr.github.io][githubIO]
 
  [committers]: https://facebook.com/anhvietcr
  [githubIO]: https://anhvietcr.github.io
