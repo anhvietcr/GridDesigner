@@ -4,9 +4,9 @@ _Helpful for UI/UX Designer_
 
 Preview Software Application
 ------------------------------------------
-[![GitHub release](img/preview.gif)](preview)
+[![GitHub release](preview/preview.gif)](preview)
 
-[![GitHub release](img/preview2.gif)](preview2)
+[![GitHub release](preview/preview2.gif)](preview2)
 
 Prerequisites
 ------------------------------------------
