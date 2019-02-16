@@ -51,7 +51,7 @@ Feature
 Authors
 -------------
  - **Anhvietcr:** [fb.com/anhvietcr][committers]
- - **Buy a Projects:** [anhvietcr.github.io][githubIO]
+ - **Buy Projects:** [anhvietcr.github.io][githubIO]
 
  [committers]: https://facebook.com/anhvietcr
  [githubIO]: https://anhvietcr.github.io
